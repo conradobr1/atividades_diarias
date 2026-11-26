@@ -1,0 +1,14 @@
+name: atividades_diarias
+description: Cadastro mensal de atividades da aula 15.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  http: ^0.13.6
+flutter:
+  uses-material-design: true
